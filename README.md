@@ -37,5 +37,7 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 The Output Result Video
 --- 
 
-The final result of my project is uploaded here in Youtube. Please feel free to check it out.
+The final result of my project is uploaded here in Youtube. Please click the following image or Link to check it out.
 [![IMAGE ALT TEXT HERE](https://github.com/SheldonWangRJT/SDC-Advanced-Lane-Finding/blob/master/output_images/f1.png)](https://youtu.be/BhhuXfa0P2s)
+
+https://youtu.be/BhhuXfa0P2s
