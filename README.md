@@ -33,3 +33,9 @@ To help the reviewer examine your work, please save examples of the output from 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
 If you're feeling ambitious (again, totally optional though), don't stop there!  We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
+
+The Output Result Video
+--- 
+
+The final result of my project is uploaded here in Youtube. Please feel free to check it out.
+[![IMAGE ALT TEXT HERE](https://github.com/SheldonWangRJT/SDC-Advanced-Lane-Finding/blob/master/output_images/f1.png)](https://youtu.be/BhhuXfa0P2s)
